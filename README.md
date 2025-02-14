@@ -1,4 +1,4 @@
-# VISTA WEB [FLORES.HTML](https://web-MIKS.netlify.app/)
+# WEB [MIKS.HTML](https://web-MIKS.netlify.app/)
 
 # Flores en HTML y CSS
 
